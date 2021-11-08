@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+.box {
+  border: 1px solid blanchedalmond;
+  border-spacing: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
+}
+
+.navbar-srh {
+  background-color: rgb(243, 117, 0);
+  width: 100%;
+  height: auto;
+  align-items: center;
+}
+.navbar-srh h1 {
+  margin: 0;
+  font-size: 70px;
+  color: rgb(224, 221, 216);
+  text-align: center;
+}
+.wrap-srh {
+  color: blanchedalmond;
+  align-content: center;
+  margin-top: 50px;
+}
+.srh-logo {
+  height: 90px;
+}
+
+.srh-para {
+  color: blanchedalmond;
+  font-size: 30px;
+  margin-top: 60px;
+  margin-left: 20px;
+  margin-right: 20px;
+}

@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+.box {
+  border: 1px solid blanchedalmond;
+  border-spacing: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
+}
+
+.navbar-rcb {
+  background-color: rgb(190, 30, 18);
+  width: 100%;
+  height: auto;
+  align-items: center;
+}
+.navbar-rcb h1 {
+  margin: 0;
+  font-size: 70px;
+  color: rgb(196, 184, 24);
+  text-align: center;
+}
+.wrap-rcb {
+  color: blanchedalmond;
+  align-content: center;
+  margin-top: 50px;
+}
+.rcb-logo {
+  height: 90px;
+}
+
+.rcb-para {
+  color: blanchedalmond;
+  font-size: 30px;
+  margin-top: 60px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
